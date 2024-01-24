@@ -1,3 +1,4 @@
+! foto.png
 - 👋 Hi, I’m @Arana522
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning coding at DEV.F
